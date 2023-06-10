@@ -1,6 +1,6 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Raj Jitendra Thakur! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Senior Software Engineer at <a href="https://www.neosofttech.com/">NeoSoft Technologies
+<p><em>Software Engineer at <a href="https://www.neosofttech.com/">NeoSoft Technologies
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
@@ -15,21 +15,20 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 ```javascript
 const anmol = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Python", "Java", "PHP"],
+    code: ["DotNet", "Angular"],
     askMeAbout: ["web dev", "tech", "app dev", "photography"],
     technologies: {
-        backEnd: {
-            js: ["Node", "Fastify", "Express"],
+        programming Language:["C#"],
+        webDevelopment:["ASP.Net","ASP.Net MVC","ASP.Net Core MVC"]
+        cloud Platform: ["Microsoft Azure"],
+        framework/Technologies:[".Net Core 6.0","ASP.Net MVC 5","VS 2022",".Net Framework 4.5"]
+        databases: ["MSSQL"],
+        scriptingLanguages:["Javascript"],
+        versionControl:["Github","Git","Azure Devops"]
+        softwareDevelopment:["Agile","Scrum"]
         },
-        mobileApp: {
-            native: ["Android Development"]
-        },
-        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
-    },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "No Focus point at this time",
+    architectures:["REST","Microsservice"],
+    currentFocus: "Learning DevOps",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
